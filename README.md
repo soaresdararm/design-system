@@ -1,4 +1,4 @@
-# Design System com Storybook, TypeScript e Tailwind CSS
+# Design System com Storybook e Tailwind CSS
 
 Este é um projeto Next.js inicializado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app), e agora com integração de um **Design System** utilizando **Storybook**, **TypeScript** e **Tailwind CSS**.
 
@@ -14,3 +14,6 @@ yarn dev
 pnpm dev
 # ou
 bun dev
+
+
+```
